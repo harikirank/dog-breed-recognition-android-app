@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dog Breed Android InceptionV3</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="select_image_from_gallery">Select An Image From Gallery</string>
+    <string name="predict_dog_breed">Predict Dog Breed</string>
+    <string name="lhass">Lhasa Apso (99%)</string>
+    <string name="afghan_50_hound_30">afghan(50%), hound(30%) afghan(50%), hound(30%)</string>
+    <string name="selected_image">Selected Image</string>
+</resources>
